@@ -37,7 +37,7 @@ The dataset contains transactional data from an online retail platform. The colu
 - **gender**: Gender of the customer
 - **age**: Age of the customer
 
-You can download the dataset from [here](https://www.kaggle.com/datasets/ertugrulesol/online-retail-data/data)
+You can download the dataset from [here](https://www.kaggle.com/datasets/ertugrulesol/online-retail-data/data).
 
 ## Setup Instructions
 
@@ -133,5 +133,5 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## Acknowledgments
 
-- The dataset used for this project was provided by [Ertuğrul EŞOL](#source-link).
+- The dataset used for this project was provided by [Ertuğrul EŞOL](https://www.kaggle.com/ertugrulesol).
 ```
